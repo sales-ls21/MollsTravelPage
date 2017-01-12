@@ -1,0 +1,80 @@
+body {
+  background-color: #f5deb3; }
+
+.headline {
+  text-align: center;
+  font-size: 1.5em; }
+
+.text {
+  color: white;
+  height: 200px;
+  position: absolute;
+  margin-top: 350px;
+  font-size: 1.7em;
+  font-style: italic;
+  margin-left: 50px; }
+
+.scroll {
+  background-size: cover !important;
+  width: 100% !important;
+  height: 450px !important; }
+
+.headText {
+  color: gold;
+  font-weight: bold;
+  font-style: italic; }
+
+.aboutsection, .mapsection {
+  margin-top: 10px;
+  text-align: center; }
+
+.smallpic {
+  width: 30%;
+  height: 25%;
+  margin: 0 auto;
+  margin-bottom: 10px; }
+
+.destpic {
+  margin: 0 auto;
+  width: 100%;
+  height: 25%;
+  margin-bottom: 10px; }
+
+.details {
+  font-weight: bolder;
+  font-style: italic; }
+
+.advert a {
+  text-decoration: none;
+  color: white; }
+
+.footer {
+  background-color: #337ab7;
+  text-transform: uppercase;
+  width: 100%;
+  height: 50px;
+  bottom: 0; }
+
+.footer a {
+  color: white;
+  bottom: 0; }
+
+.ctrytag {
+  text-align: center;
+  color: white;
+  padding: 8px;
+  border: 1px solid white;
+  background-color: gold; }
+
+.londondiary {
+  top: 100px; }
+
+.ukimg {
+  width: 100%;
+  height: 400px; }
+
+.note {
+  font-style: italic;
+  font-size: .8em; }
+
+/*# sourceMappingURL=main.css.map */
