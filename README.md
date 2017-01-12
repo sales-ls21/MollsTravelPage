@@ -1,7 +1,7 @@
 # MollsTravelPage
 
 ##About
-A good friend of mine recently went on a trip to Europe (her first!) and, as a favor, asked me to create a website she could share with friends and family. I decided on a simply AngularJS framework to practice that bit more. I also used Google's Materiall Design Bootstrap for the layout and some of the styling, namely the carousels. Additionally, the ngParallax for AngularJS was key to the design of the landing page. I didn't draw on a database for this one, so there wasn't much need for controllers, although Angular requires that you have them. You'll notice most of those are blank.
+A good friend of mine recently went on a trip to Europe (her first!) and, as a favor, asked me to create a website she could share with friends and family. I decided on a simply AngularJS framework to practice that bit more. I also used Google's Material Design Bootstrap for the layout and some of the styling, namely the carousels. Additionally, the ngParallax for AngularJS was key to the design of the landing page. I didn't draw on a database for this one, so there wasn't much need for controllers, although Angular requires that you have them. You'll notice most of those are blank.
 
 ###Required packages to install:
 1. mdbootstrap (Material Design Bootstrap)
